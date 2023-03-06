@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intersection_Crispe", "Intersection_Crispe\Intersection_Crispe.csproj", "{EB84A35D-CC3D-4D21-B4E3-C9B7B3B0F8BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB84A35D-CC3D-4D21-B4E3-C9B7B3B0F8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB84A35D-CC3D-4D21-B4E3-C9B7B3B0F8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB84A35D-CC3D-4D21-B4E3-C9B7B3B0F8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB84A35D-CC3D-4D21-B4E3-C9B7B3B0F8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17128AC1-7FD4-45B4-9B8B-26C780137841}
+	EndGlobalSection
+EndGlobal
